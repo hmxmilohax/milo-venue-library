@@ -9,7 +9,7 @@
 	When formatting your directory, it should look something like this\
 	![reference_image_og](https://github.com/user-attachments/assets/4e343d05-9759-498a-8c88-504830b353e2)
 	- Do not leave loose files like textures around the blend file, put them in their own separate folder beside the Blend file.
-	- When making a pull request, make sure you delete "filename.blend1" to remove excess bloat.
+	- When making a pull request, make sure you delete "**filename.blend1**" to remove excess bloat.
 	- Make sure any duplicate textures or materials are removed before making a pull request.
 
 
