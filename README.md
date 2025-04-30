@@ -1,7 +1,7 @@
 # milo-venue-library
 
 ## How to make a proper Pull Request
-__**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**__
+<ins>**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**</ins>
 
 
 
