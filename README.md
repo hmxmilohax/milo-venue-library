@@ -5,9 +5,8 @@
 
 
 
-1. Directory suggested format
-	
-	When formatting your directory, it should look something like this
+1. Directory suggested format\
+	When formatting your directory, it should look something like this\
 	![reference_image](https://github.com/user-attachments/assets/e547e83d-aa70-4bdb-aee5-bfdbb6fddb28)
 	- Do not leave loose files like textures around the blend file, put them in their own separate folder beside the Blend file.
 	- When making a pull request, make sure you delete "filename.blend1" to remove excess bloat.
@@ -15,24 +14,24 @@
 
 
 
-2. Console parity
+2. Console parity\
 	
-	If you are going to make a pull request for your custom Rock Band 3:tm: Venue, please make sure that it works on both Xbox 360 and Playstation 3. (In this case Wii is not accounted for.)
+	If you are going to make a pull request for your custom Rock Band 3:tm: Venue, please make sure that it works on both Xbox 360 and Playstation 3. (In this case Wii is not accounted for.)\
 	We will do testing ourselves to make sure they work, but if they don't, they will be rejected until fixed.
 
 
 
-3. Hardware/Software limits
+3. Hardware/Software limits\
 	
-	Limit your venues to 40-50k polygons, this ensures they work at all on console. **This limit is total amount, not per object!**
-	Textures should not be any larger than 512x512.
+	Limit your venues to 40-50k polygons, this ensures they work at all on console. **This limit is total amount, not per object!**\
+	Textures should not be any larger than 512x512.\
 > 1024x1024 is supported, but only if you *absolutely* need extra detail! Consider using multiple materials instead.
 
 
 
-4. QC (Quality-Control) of your venues.
+4. QC (Quality-Control) of your venues.\
 	
-	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.
+	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.\
 	1. You are on an old version of MiloEditor and saved one too many times within the same session.
   	   - FIX: Update [MiloEditor](https://github.com/ihatecompvir/MiloEditor)
 	2. You deleted the **uniq2** folder that's required.
@@ -44,10 +43,10 @@
 
 
 # Credits
-Personal thanks to these lovely folks for writing this readme.
-[MetricCepheid](https://github.com/MetricCepheid) - Wrote the readme
-[ihatecompvir](https://github.com/ihatecompvir)
-[jnack](https://github.com/jnackmclain)
-[kerneltrap8](https://github.com/kernaltrap8)
-[lunalawl](https://github.com/lunalawl)
-[RazQ](https://github.com/razq)
+Personal thanks to these lovely folks for writing this readme.\
+[MetricCepheid](https://github.com/MetricCepheid) - Wrote the readme\
+[ihatecompvir](https://github.com/ihatecompvir)\
+[jnack](https://github.com/jnackmclain)\
+[kerneltrap8](https://github.com/kernaltrap8)\
+[lunalawl](https://github.com/lunalawl)\
+[RazQ](https://github.com/razq)\
