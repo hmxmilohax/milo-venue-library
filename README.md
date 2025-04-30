@@ -5,7 +5,7 @@ If you are planning on making a pull request to add your venue to this repo, the
 
 1. Directory suggested format
 When formatting your directory, it should look something like this
-[image here]
+![reference_image](https://github.com/user-attachments/assets/e547e83d-aa70-4bdb-aee5-bfdbb6fddb28)
 - Do not leave loose files like textures around the blend file, put them in their own separate folder beside the Blend file.
 - When making a pull request, make sure you delete "filename.blend1" to remove excess bloat.
 - Make sure any duplicate textures or materials are removed before making a pull request.
