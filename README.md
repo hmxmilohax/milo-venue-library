@@ -1,4 +1,5 @@
 # milo-venue-library
+[Rock Band 3 Venue Info Document](https://docs.google.com/document/d/19qjL6bPoFSkUtJYYTEPNZ_F2iWSoJdbxr5a2iF2Aw5E/edit?usp=sharing)
 
 ## How to make a proper Pull Request
 <ins>**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**</ins>
