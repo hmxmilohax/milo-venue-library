@@ -46,4 +46,4 @@ Personal thanks to these lovely folks for writing this readme.\
 [jnack](https://github.com/jnackmclain)\
 [kerneltrap8](https://github.com/kernaltrap8)\
 [lunalawl](https://github.com/lunalawl)\
-[RazQ](https://github.com/razq)\
+[RazQ](https://github.com/razq)
