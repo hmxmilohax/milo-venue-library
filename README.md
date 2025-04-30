@@ -24,6 +24,8 @@ Textures should not be any larger than 512x512.
 > 1024x1024 is supported, but only if you *absolutely* need extra detail! Consider using multiple materials instead.
 
 
+4. QC (Quality-Control) of your venues.
+
 Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.
 1. You are on an old version of MiloEditor and saved one too many times within the same session.
      - FIX: Update [MiloEditor](https://github.com/ihatecompvir/MiloEditor)
