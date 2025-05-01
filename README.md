@@ -3,7 +3,7 @@
 
 ## How to make a proper Pull Request
 <ins>**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**</ins>
-
+**SOURCE FILES ARE NOT REQUIRED TO BE ABLE TO MAKE A PULL REQUEST TO THE REPO**
 
 
 1. **Directory suggested format**\
@@ -37,7 +37,8 @@
 	3. Your PS3 version of the venue is crashing but your Xbox version is not.
   	   - This is due to normal textures being encoded to the wrong format that PS3 RB3 cannot read properly.
 	     - FIX: Update [glTFMilo](https://github.com/ihatecompvir/glTFMilo) and re-convert the glTF to Milo.
-
+	4. Make sure that your venue files are saved as uncompressed.
+	   - The reasoning for this is compatibility sake. There's a good chance compression will just straight up not work on either console or emulator.
 
 
 # Credits
