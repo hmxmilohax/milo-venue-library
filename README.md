@@ -1,6 +1,16 @@
 # milo-venue-library
 [Rock Band 3 Venue Info Document](https://docs.google.com/document/d/19qjL6bPoFSkUtJYYTEPNZ_F2iWSoJdbxr5a2iF2Aw5E/edit?usp=sharing)
 
+## Venue Installation (As of 1/5/2025)
+Method 1 - RB3DX:
+- Clone [Rock Band 3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe)
+- Replace an existing venue with the custom venue. for example, place it at `_ark/world/venue/video/video_07/gen/video_07.milo_[platform]`, creating folders as nessessary.
+- Follow [RB3DX Build Instructions](https://github.com/hmxmilohax/rock-band-3-deluxe?tab=readme-ov-file#-building-not-standard-download-and-install)
+
+Method 2 - RB3Enhanced Rawfiles (Xbox and Xenia only)
+- Enable raw files in your rb3.ini
+- Replace an existing venue with the custom venue. for example, place it at `HDD:\rb3\world\venue\video\video_07\gen\video_07.milo_xbox`, creating folders as nessessary.
+
 ## How to make a proper Pull Request
 <ins>**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**</ins>
 **SOURCE FILES ARE NOT REQUIRED TO BE ABLE TO MAKE A PULL REQUEST TO THE REPO**
@@ -49,3 +59,4 @@ Personal thanks to these lovely folks for writing this readme.\
 [kerneltrap8](https://github.com/kernaltrap8)\
 [lunalawl](https://github.com/lunalawl)\
 [RazQ](https://github.com/razq)
+[glitchgod](https://github.com/glitchgod0)
