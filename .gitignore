@@ -1,2 +1,7 @@
 #ignore blend1 file format
 *.blend1
+
+#ignore source folders
+
+#ignore not ready to port folders
+"Garrys Mod/MetricCepheid/GM_Flatgrass"
