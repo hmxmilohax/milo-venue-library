@@ -12,8 +12,8 @@ Method 2 - RB3Enhanced Rawfiles (Xbox and Xenia only)
 - Replace an existing venue with the custom venue. for example, place it at `HDD:\rb3\world\venue\video\video_07\gen\video_07.milo_xbox`, creating folders as nessessary.
 
 ## How to make a proper Pull Request
+**SOURCE FILES ARE NOT REQUIRED TO BE ABLE TO MAKE A PULL REQUEST TO THE REPO**\
 <ins>**If you are planning on making a pull request to add your venue to this repo, there are a few things to take into count.**</ins>
-**SOURCE FILES ARE NOT REQUIRED TO BE ABLE TO MAKE A PULL REQUEST TO THE REPO**
 
 
 1. **Directory suggested format**\
@@ -33,13 +33,13 @@ Method 2 - RB3Enhanced Rawfiles (Xbox and Xenia only)
 
 3. **Hardware/Software limits**\
 	Limit your venues to 40-50k polygons, this ensures they work at all on console. **This limit is total amount, not per object!**\
-	Textures should not be any larger than 512x512.\
+	Textures should not be any larger than 512x512.
 > 1024x1024 is supported, but only if you *absolutely* need extra detail! Consider using multiple materials instead.
 
 
 
 4. **QC (Quality Control) of your venues.**\
-	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.\
+	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.
 	1. You are on an old version of MiloEditor and saved one too many times within the same session.
   	   - FIX: Update [MiloEditor](https://github.com/ihatecompvir/MiloEditor)
 	2. You deleted the **uniq2** folder that's required.
