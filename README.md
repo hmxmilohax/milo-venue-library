@@ -39,7 +39,7 @@ Method 2 - RB3Enhanced Rawfiles (Xbox and Xenia only)
 
 
 4. **QC (Quality Control) of your venues.**\
-	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.\
+	Make sure that your milos are not corrupted. If they are, there are a multitude of reasons they are.
 	1. You are on an old version of MiloEditor and saved one too many times within the same session.
   	   - FIX: Update [MiloEditor](https://github.com/ihatecompvir/MiloEditor)
 	2. You deleted the **uniq2** folder that's required.
