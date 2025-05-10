@@ -4,7 +4,7 @@
 ## Venue Installation (As of 1/5/2025)
 Method 1 - RB3DX:
 - Clone [Rock Band 3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe)
-- Replace an existing venue with the custom venue. for example, place it at `_ark/world/venue/video/video_07/gen/video_07.milo_[platform]`, creating folders as nessessary.
+- Replace an existing venue with the custom venue. for example, place it at `_ark\world\venue\video\video_07\gen\video_07.milo_[platform]`, creating folders as nessessary.
 - Follow [RB3DX Build Instructions](https://github.com/hmxmilohax/rock-band-3-deluxe?tab=readme-ov-file#-building-not-standard-download-and-install)
 
 Method 2 - RB3Enhanced Rawfiles (Xbox and Xenia only)
